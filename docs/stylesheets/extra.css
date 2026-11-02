@@ -1,3 +1,32 @@
 #copy-page {
     display: none !important;
 }
+
+.dluxe-hero {
+    position: relative;
+    margin-bottom: 3.5rem;
+}
+
+.dluxe-banner {
+    display: block;
+    width: 100%;
+    opacity: 0.55;
+    border-radius: 0.5rem 0.5rem 0 0;
+    -webkit-mask-image: linear-gradient(to bottom, #000 30%, transparent 100%);
+    mask-image: linear-gradient(to bottom, #000 30%, transparent 100%);
+}
+
+.dluxe-logo {
+    position: absolute;
+    left: 1rem;
+    bottom: -2.5rem;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+
+.home-hero {
+    margin-bottom: 1rem;
+}

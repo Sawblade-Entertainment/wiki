@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Deluxe UGC Group/index.md",
+                "file": "docs/about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "about"
+            }
+          },
+          {
+            "id": "a9dd47e079823f75",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
             }
           }
         ]
@@ -190,10 +202,15 @@
   },
   "active": "7e1bf811c4609d4f",
   "lastOpenFiles": [
+    "docs/img/SawbladeBanner.png",
+    "docs/img/DluxeLogo.webp",
+    "docs/img/DluxeBanner.png",
+    "docs/developer.md",
+    "docs/index.md",
+    "docs/Deluxe UGC Group/index.md",
     "docs/img/sawblade_entertainment_logo_full.png",
     "docs/img/sawblade_entertainment_logo_icon.png",
     "docs/about.md",
-    "docs/index.md",
     "README.md",
     "docs/Backrooms 1999/devlog.md",
     "docs/Backrooms 1999/index.md",
@@ -202,9 +219,6 @@
     "images/4-23-2026/HallShot3.png",
     "images/4-23-2026/HallShot4.png",
     "images/4-23-2026/HallShot5.png",
-    "images/4-23-2026/HallShot6.png",
-    "images/4-23-2026/LobbyComputer.png",
-    "images/4-23-2026/MapOverview.png",
-    "images/4-26-2026/TimePeriodSlip.gif"
+    "images/4-23-2026/HallShot6.png"
   ]
 }

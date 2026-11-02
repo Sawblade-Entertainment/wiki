@@ -1,4 +1,7 @@
 # Home
+<div class="dluxe-hero home-hero">
+<img class="dluxe-banner" src="img/SawbladeBanner.png" alt="Sawblade Entertainment Banner">
+</div>
 
 This is the Official Sawblade Entertainment Wiki
 
