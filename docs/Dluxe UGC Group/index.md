@@ -13,4 +13,4 @@ Dluxe UGC is a Roblox group that designs and publishes clothing for the Roblox M
 - [__TikTok__](https://www.tiktok.com/@dluxe.ugc)
 
 ## Contact
-- __Business Inquiries__ — [brycex1@sawblade.games](mailto:brycex1@sawblade.games)
+- __Business Inquiries__ — [dluxeugc@sawblade.games](mailto:dluxeugc@sawblade.games)

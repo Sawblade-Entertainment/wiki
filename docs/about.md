@@ -13,6 +13,9 @@ We aim to create a variety of games that push the limits and focus on player enj
 - [__GitHub__](https://github.com/Sawblade-Entertainment)
 
 ## Team
-- __Head Developer & Project Manager__ — [sithlord77jr@sawblade.games](mailto:sithlord77jr@sawblade.games)
-- __Creative Director & 3D Artist__ — [brycex1@sawblade.games](mailto:brycex1@sawblade.games)
-- __Art & Asset Design__ — [laelae@sawblade.games](mailto:laelae@sawblade.games)
+- __Head Developer & Project Manager__ — [sithlord77jr](mailto:sithlord77jr@sawblade.games)
+- __Creative Director & 3D Artist__ — [brycex1](mailto:brycex1@sawblade.games)
+- __Art & Asset Design__ — [laelae](mailto:laelae@sawblade.games)
+
+## Contact
+- __Business Inquiries__ — [entertainment@sawblade.games](mailto:entertainment@sawblade.games)
