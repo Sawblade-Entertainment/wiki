@@ -13,4 +13,10 @@ Public development packages
 > Added level of detail<br>
 
 - [Razor Input](https://sawblade-entertainment.github.io/pkg-razor-input/)
-> A dead simple input mapper<br>
+> Dead simple input mapper<br>
+
+- [Razor Data](https://sawblade-entertainment.github.io/pkg-razor-data/)
+> Dead simple data handling<br>
+
+- [Razor Market](https://sawblade-entertainment.github.io/pkg-razor-market/)
+> Dead simple market handling<br>
