@@ -7,6 +7,9 @@ This is the Official Sawblade Entertainment Wiki
 
 For contact and social media information visit the [About](about.md) page.
 
+Want to see what we've made?<br>
+[Browse our projects](Projects/index.md)
+
 Here for the latest sawblade project news?<br>
 [Check the news](News/index.md)
 

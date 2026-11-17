@@ -30,3 +30,71 @@
 .home-hero {
     margin-bottom: 1rem;
 }
+
+/* Project cards (docs/Projects/index.md) */
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+    gap: 1rem;
+    margin: 1rem 0 2rem;
+}
+
+.project-card {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    background: var(--card);
+    color: var(--card-foreground);
+    text-decoration: none !important;
+    transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.project-card:hover {
+    border-color: var(--ring);
+    transform: translateY(-2px);
+}
+
+.project-card:focus-visible {
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+}
+
+.project-card__thumb {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    margin: 0 !important;
+    border-radius: 0 !important;
+    border-bottom: 1px solid var(--border);
+}
+
+.project-card__body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    padding: 0.875rem 1rem 1rem;
+}
+
+.project-card__name {
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.project-card__desc {
+    font-size: 0.875rem;
+    line-height: 1.4;
+    color: var(--muted-foreground);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .project-card {
+        transition: none;
+    }
+
+    .project-card:hover {
+        transform: none;
+    }
+}
