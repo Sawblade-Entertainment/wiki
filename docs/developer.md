@@ -4,7 +4,7 @@ This is a document of all developmental resources we offer publically.
 ## Packages
 Public development packages
 
-- [ChainLink](https://sawblade-entertainment.github.io/tool-chainlink/)
+- [ChainLink](https://chainlink.sawblade.games/)
 > A toolchain management and project sync tool built for Roblox<br>
 
 - [Nami Water Surface Physics](https://sawblade-entertainment.github.io/pkg-nami/)
